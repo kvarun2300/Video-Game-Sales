@@ -105,12 +105,19 @@ ________________________________________
 ________________________________________
 🔹 Conclusion
 This project demonstrates how integrating sales and engagement data can provide a comprehensive view of the gaming market. By leveraging:
+
 •	 SQL for structured data handling 
-•	 Power BI for visualization 
+
+•	 Power BI for visualization
+
 •	 Python for analysis 
+
 we can uncover actionable insights that support:
+
 •	Strategic marketing 
-•	Data-driven game development 
+
+•	Data-driven game development
+
 •	Accurate sales forecasting 
 Ultimately, the analysis enables stakeholders to make informed decisions, improve player satisfaction, and maximize business performance in the gaming industry.
 
